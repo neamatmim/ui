@@ -1,5 +1,5 @@
 {
-  "name": "@neamatmim/eslint-config-ui",
+  "name": "eslint-config-ui",
   "license": "MIT",
   "version": "0.0.0",
   "private": true,
