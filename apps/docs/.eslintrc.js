@@ -1,3 +1,4 @@
 module.exports = {
-  extends: ["custom/storybook"],
-};
+  // root: true,
+  extends: ['ui/storybook'],
+}
